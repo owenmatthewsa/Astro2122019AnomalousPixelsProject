@@ -1,2 +1,2 @@
 # Astro2122019AnomalousPixelsProject
-Dopest Project ever
+Punishing bad pixels for being naughty
